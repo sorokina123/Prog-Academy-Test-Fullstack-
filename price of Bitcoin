@@ -1,0 +1,4 @@
+let bitcoinPrice = 22000;
+let capital = 10000;
+var btcCash = capital/bitcoinPrice;
+console.log (btcCash);
